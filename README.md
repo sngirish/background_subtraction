@@ -1,4 +1,4 @@
-### background_subtraction
+### Background subtraction by Stauffer-Grimson algorithm
 
 ### no of gaussians
 K=4 
